@@ -29,6 +29,9 @@ body {
   font-size: 15px; 
 }
 
+a { color: var(--color-4-dark); }
+a:hover { color: var(--color-4-lite); }
+
 h1,
 h2,
 h3,
