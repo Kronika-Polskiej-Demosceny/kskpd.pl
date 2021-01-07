@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://kskpd.pl/categories/</loc>
-  </url>
+  <sitemap>
+    <loc>https://kskpd.pl/de/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://kskpd.pl/</loc>
-  </url>
+  <sitemap>
+    <loc>https://kskpd.pl/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://kskpd.pl/tags/</loc>
-  </url>
+  <sitemap>
+    <loc>https://kskpd.pl/fi/sitemap.xml</loc>
+    
+  </sitemap>
   
-</urlset>
+  <sitemap>
+    <loc>https://kskpd.pl/pl/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
