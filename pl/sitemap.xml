@@ -6,18 +6,8 @@
     <loc>https://kskpd.pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://kskpd.pl/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://kskpd.pl/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://kskpd.pl/fi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -30,18 +20,8 @@
     <loc>https://kskpd.pl/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://kskpd.pl/de/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://kskpd.pl/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://kskpd.pl/fi/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -54,18 +34,8 @@
     <loc>https://kskpd.pl/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://kskpd.pl/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://kskpd.pl/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://kskpd.pl/fi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
