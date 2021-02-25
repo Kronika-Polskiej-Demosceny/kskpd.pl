@@ -161,7 +161,7 @@ Początki demosceny jako zjawiska kulturowego w Polsce sięgają lat 80. XX wiek
       
       <guid>https://kskpd.pl/slownik/grupa/</guid>
       <description>Zespół osób o różnych specjalizacjach zajmujących się tworzeniem produkcji. Główne specjalizacje to: koder, muzyk, grafik; w czasach przed powszechnym dostępem do internetu także swapper, w dzisiejszych czasach także koordynator. W grupie może współpracować więcej osób o tej samej specjalizacji.
-Można należeć do więcej niż jednej grupy demoscenowej. Przynależność do grupy tradycyjnie zapisuje się w formacie “Pseudonim/Grupa1^Grupa2^Grupa3” oraz można ją zaznaczać także w indywidualnych pracach. Przynależność obowiązuje do odwołania, zazwyczaj jest powodem do dumy.</description>
+Można należeć do więcej niż jednej grupy demoscenowej. Przynależność do grupy tradycyjnie zapisuje się w formacie “Pseudonim / Grupa1^Grupa2^Grupa3” oraz można ją zaznaczać także w indywidualnych pracach. Przynależność obowiązuje do odwołania, zazwyczaj jest powodem do dumy.</description>
     </item>
     
     <item>
@@ -260,7 +260,7 @@ Można należeć do więcej niż jednej grupy demoscenowej. Przynależność do 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kskpd.pl/slownik/msx/</guid>
-      <description>Prównaj muzyka</description>
+      <description>Porównaj muzyka</description>
     </item>
     
     <item>
@@ -278,7 +278,7 @@ Można należeć do więcej niż jednej grupy demoscenowej. Przynależność do 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kskpd.pl/slownik/muzyka/</guid>
-      <description>Muzykę demoscenową można umownie podzielić na →chiptune, →oldschool i newschool. Chiptune i oldschool to w szczególności utwory wykorzystujące możliwości układów dźwiękowych komputerów 8- i 16-bitowych. Tam dźwiękami dostępnymi do aranżacji utworu mogą być fale generowane przez układy elektroniczne (głównie sprzęt 8-bit, komputer jest instrumentem muzycznym) lub złożone, odtwarzane sample (próbki dźwiękowe, głównie →sprzęt 16-bit i niektóre 8-bitowce). W zależności od sprzętu dostępna jest ograniczona liczba równoległych ścieżek dźwiękowych, zwykle trzy lub cztery.</description>
+      <description>Muzykę demoscenową można umownie podzielić na chiptune, oldschool i newschool. Chiptune i oldschool to w szczególności utwory wykorzystujące możliwości układów dźwiękowych komputerów 8- i 16-bitowych. Tam dźwiękami dostępnymi do aranżacji utworu mogą być fale generowane przez układy elektroniczne (głównie sprzęt 8-bit, komputer jest instrumentem muzycznym) lub złożone, odtwarzane sample (próbki dźwiękowe, głównie sprzęt 16-bit i niektóre 8-bitowce). W zależności od sprzętu dostępna jest ograniczona liczba równoległych ścieżek dźwiękowych, zwykle trzy lub cztery.</description>
     </item>
     
     <item>
@@ -325,7 +325,7 @@ Większość znanych polskich party organizowane cyklicznie: AmiParty (Amiga, od
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kskpd.pl/slownik/partyplace/</guid>
-      <description>Miejsce, w którym odbywa się party. Najczęściej budynek szkoły lub klubu wynajęty przez orgów. Tradycyjnymi elementami spotykanymi na partyplace są: infodesk (miejsce, w którym można się zarejestrować oraz pobrać ident i votkę), bigscreen, czasem także sleeping room</description>
+      <description>Miejsce, w którym odbywa się party. Najczęściej budynek szkoły lub klubu wynajęty przez orgów. Tradycyjnymi elementami spotykanymi na partyplace są: infodesk (miejsce, w którym można się zarejestrować oraz pobrać ident i votkę), bigscreen, czasem także sleeping room.</description>
     </item>
     
     <item>
@@ -399,8 +399,8 @@ W powszechnym użyciu jest jednak tradycyjny podział przydatna przy organizacji
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kskpd.pl/slownik/swapper/</guid>
-      <description>(od ang. swap — wymiana, zamiana) osoba w grupie zajmująca się dystrybucją materiałów w jej imieniu oraz wymianą z innymi swapperami. Predyspozycjami do swappowania były: sieć kontaktów towarzyskich, wypełniony adresownik (papierowy zeszyt, gdzie alfabetycznie wpisywało się adresy i telefony znajomych) i bliskość poczty, a później także dostęp do usług i amatorskich sieci komputerowych BBS/Fidonet [https://pl.wikipedia.org/wiki/Fidonet).
-Materiały cyfrowe były początkowo rozsyłane na zamówienie na dyskietkach 5,25” i 3,5”, a potem płytach CD, które swapper/ka wypełniał/a pracami grupy, pracami znajomych, →zinami i innymi materiałami.</description>
+      <description>(od ang. swap — wymiana, zamiana) osoba w grupie zajmująca się dystrybucją materiałów w jej imieniu oraz wymianą z innymi swapperami. Predyspozycjami do swappowania były: sieć kontaktów towarzyskich, wypełniony adresownik (papierowy zeszyt, gdzie alfabetycznie wpisywało się adresy i telefony znajomych) i bliskość poczty, a później także dostęp do usług i amatorskich sieci komputerowych BBS/Fidonet.
+Materiały cyfrowe były początkowo rozsyłane na zamówienie na dyskietkach 5,25” i 3,5”, a potem płytach CD, które swapper/ka wypełniał/a pracami grupy, pracami znajomych, zinami i innymi materiałami.</description>
     </item>
     
     <item>
