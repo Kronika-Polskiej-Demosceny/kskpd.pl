@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kskpd.pl/slownik/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/ansi_art/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/ascii_art/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/bigscreen/</loc>
+  </url>
+  
+  <url>
     <loc>https://kskpd.pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -14,6 +30,82 @@
                 hreflang="pl"
                 href="https://kskpd.pl/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/chartsy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/chiptune/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/compo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/copy_party/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/cracking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/cracktro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/demo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/demoparty/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/demoscena/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/friendship/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/grafik/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/grafika/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/greetsy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/grupa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/hacking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/ident/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/invitka/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/koder/</loc>
   </url>
   
   <url>
@@ -31,6 +123,90 @@
   </url>
   
   <url>
+    <loc>https://kskpd.pl/slownik/kompo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/kompot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/koord/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/lameriada/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/lamerstwo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/msx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/muzyk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/muzyka/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/nick/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/oldschool/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/org/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/party/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/partyplace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/prodka/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/produkcja/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/rulez/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/scenowiec/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/sleeping_room/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/sprzet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/suxx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/swapper/</loc>
+  </url>
+  
+  <url>
     <loc>https://kskpd.pl/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,6 +218,14 @@
                 hreflang="pl"
                 href="https://kskpd.pl/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/votka/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/slownik/zin/</loc>
   </url>
   
 </urlset>
