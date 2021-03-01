@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kskpd.pl/</loc>
+    <lastmod>2020-12-04T23:23:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kskpd.pl/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://kskpd.pl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/timeline/</loc>
+    <lastmod>2020-12-04T23:23:46+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kskpd.pl/slownik/</loc>
   </url>
   
@@ -69,7 +89,15 @@
   </url>
   
   <url>
+    <loc>https://kskpd.pl/timeline/1996_firestarter/</loc>
+  </url>
+  
+  <url>
     <loc>https://kskpd.pl/slownik/friendship/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/timeline/1993_fucktheobjects/</loc>
   </url>
   
   <url>
@@ -93,6 +121,10 @@
   </url>
   
   <url>
+    <loc>https://kskpd.pl/timeline/1989_holidayinmoscow/</loc>
+  </url>
+  
+  <url>
     <loc>https://kskpd.pl/slownik/ident/</loc>
   </url>
   
@@ -106,20 +138,6 @@
   
   <url>
     <loc>https://kskpd.pl/slownik/koder/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kskpd.pl/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kskpd.pl/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://kskpd.pl/"
-                />
   </url>
   
   <url>
@@ -143,6 +161,10 @@
   </url>
   
   <url>
+    <loc>https://kskpd.pl/timeline/1987_microdemo_2/</loc>
+  </url>
+  
+  <url>
     <loc>https://kskpd.pl/slownik/msx/</loc>
   </url>
   
@@ -156,6 +178,10 @@
   
   <url>
     <loc>https://kskpd.pl/slownik/nick/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/timeline/1988_noproblems/</loc>
   </url>
   
   <url>
@@ -204,6 +230,10 @@
   
   <url>
     <loc>https://kskpd.pl/slownik/swapper/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kskpd.pl/timeline/1991_swentycola/</loc>
   </url>
   
   <url>
