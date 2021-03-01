@@ -493,7 +493,14 @@ button:focus {
   text-transform: uppercase;
   color: var(--color-1-dark);
 }
-.custom-nav .container-fluid .navbar-nav.language-chooser li a:hover { 
+.custom-nav .container-fluid .navbar-nav.pages-chooser li a { 
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-family: var(--font-h);
+  text-transform: uppercase;
+  color: var(--color-1-dark);
+}
+.custom-nav .container-fluid .navbar-nav li a:hover { 
   color: var(--color-2);
 }
 .language-chooser a img { width: 24px; margin-right: 5px; filter: grayscale(80%); opacity: 60%; }
