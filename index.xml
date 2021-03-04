@@ -59,7 +59,7 @@
       
       <guid>https://kskpd.pl/slownik/compo/</guid>
       <description>Konkurs na demoscenowym party. Compoty są zazwyczaj podzielone na kategorie, z których główne to: music/msx compo, graphics/gfx compo, intro compo oraz prestiżowe demo compo. W zależności od charakteru party i decyzji orgów konkursy mogą dotyczyć innej dowolnej kategorii prac demoscenowych (np. ascii art compo, game compo, animation compo).
-Niektóre kategorie ogólne mogą zostać uszczegółowione według odpowiedniego kryterium ograniczającego — objętości kodu (np. 8/64/128 KB intro compo), platformy sprzętowej (np. PC/Amiga/Atari demo compo), techniki (np.</description>
+Niektóre kategorie ogólne mogą zostać uszczegółowione według odpowiedniego kryterium ograniczającego — objętości kodu (np. 4/64/128 KB intro compo), platformy sprzętowej (np. PC/Amiga/Atari demo compo), techniki (np.</description>
     </item>
     
     <item>
@@ -114,7 +114,7 @@ Tradycyjnie demo zawiera kombinację twórczo zaprezentowanych, zsynchronizowany
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kskpd.pl/slownik/demoscena/</guid>
-      <description>Międzynarodowa społeczność osób zajmujących się niekomercyjnym tworzeniem prezentacji audiowizualnych (jeśli myślisz &amp;ldquo;teledyski&amp;rdquo;, to jesteś blisko), czyli dem, a także prac graficznych) i muzycznych) na różne platformy sprzętowe.
+      <description>Międzynarodowa społeczność osób zajmujących się niekomercyjnym tworzeniem prezentacji audiowizualnych (jeśli myślisz &amp;ldquo;teledyski&amp;rdquo;, to jesteś blisko), czyli dem, a także prac graficznych i muzycznych na różne platformy sprzętowe.
 Demoscena to przestrzeń ekspresji twórczej, wymiany wiedzy i doświadczeń oraz życia towarzyskiego.
 Początki demosceny jako zjawiska kulturowego w Polsce sięgają lat 80. XX wieku, kiedy mikrokomputery trafiły pod strzechy, zatem wszyscy, nie tylko specjaliści i naukowcy, mogli zająć się programowaniem (a później, w miarę rozwoju oprogramowania, także tworzeniem muzyki i grafiki komputerowej).</description>
     </item>
@@ -152,7 +152,7 @@ Początki demosceny jako zjawiska kulturowego w Polsce sięgają lat 80. XX wiek
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kskpd.pl/slownik/grafik/</guid>
-      <description>Osoba zajmująca się tworzeniem grafik) oraz designem produkcji grupowych (demo, intro).</description>
+      <description>Osoba zajmująca się tworzeniem grafik oraz designem produkcji grupowych (demo, intro).</description>
     </item>
     
     <item>
@@ -407,7 +407,7 @@ Większość znanych polskich party organizowane cyklicznie: AmiParty (Amiga, od
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kskpd.pl/slownik/scenowiec/</guid>
-      <description>(rzadzej: demoscenowiec lub z ang. scener) osoba związana z twórczością demoscenową. Scenowiec ma charakterystyczny pseudonim, wystawia swoje prace i głosuje w compotach, jeździ na party, często należy do grupy.</description>
+      <description>(rzadziej: demoscenowiec lub z ang. scener) osoba związana z twórczością demoscenową. Scenowiec ma charakterystyczny pseudonim, wystawia swoje prace i głosuje w compotach, jeździ na party, często należy do grupy.</description>
     </item>
     
     <item>
@@ -427,7 +427,7 @@ Większość znanych polskich party organizowane cyklicznie: AmiParty (Amiga, od
       <guid>https://kskpd.pl/slownik/sprzet/</guid>
       <description>W ogólności komputery i urządzenia elektroniczne, na które można tworzyć prace, w szczególności także systemy operacyjne. Demoscenową pracę można stworzyć dowolną techniką i realizować na dowolnym sprzęcie, także nie-elektronicznym.
 W powszechnym użyciu jest jednak tradycyjny podział przydatna przy organizacji compo na party. Oto niektóre sprzęty i systemy (w nawiasach podkategorie):
- Acorn (Atom, Electron, Archimedes Amiga (OCS/ECS, AGA, PPC/RTG) Amstrad (CPC, Plus) Apple (II, II GS) Atari (Falcon 030, Jaguar, Lynx, ST, STe, TT 030, VCS, XL/XE) BBC Micro Electronika (BK-0010/11M) Commodore (16/116/plus4, 64 DTV, 128, 64) Dreamcast Gameboy (Advance, Color) Gamecube GamePark (GP2X, GP32) Intellivision MacOS (Intel, PPC) MSX (2, 2 plus, Turbo-R) NEC TurboGrafx/PC Engine Nintendo (64, DS, Wii) Oric PC (MS-DOS, Linux, Windows, FreeBSD) Playstation (2, 3, Portable) Pokémon Mini Raspberry Pi SAM Coupé SEGA (Game Gear, Genesis/Mega Drive, Master System) SGI/IRIX Sharp MZ SNES/Super Famicom Spectravideo 3x8 TI-8x (68k, Z80) TIC-80 TRS-80/CoCo Vectrex VIC 20 Wonderswan XBOX (360) ZX (Enhanced, Spectrum, ZX-81)  Platformą może być także język programowania lub skryptowania, np.</description>
+ Acorn (Atom, Electron, Archimedes) Amiga (OCS/ECS, AGA, PPC/RTG) Amstrad (CPC, Plus) Apple (II, II GS) Atari (Falcon 030, Jaguar, Lynx, ST, STe, TT 030, VCS, XL/XE) BBC Micro Electronika (BK-0010/11M) Commodore (16/116/plus4, 64, 64 DTV, 128, VIC-20) Dreamcast Gameboy (Advance, Color) Gamecube GamePark (GP2X, GP32) Intellivision MacOS (Intel, PPC) MSX (2, 2 plus, Turbo-R) NEC TurboGrafx/PC Engine Nintendo (64, DS, Wii) Oric PC (MS-DOS, Linux, Windows, FreeBSD) Playstation (2, 3, Portable) Pokémon Mini Raspberry Pi SAM Coupé SEGA (Game Gear, Genesis/Mega Drive, Master System) SGI/IRIX Sharp MZ SNES/Super Famicom Spectravideo 3x8 TI-8x (68k, Z80) TIC-80 TRS-80/CoCo Vectrex Wonderswan XBOX (360) ZX (Enhanced, Spectrum, ZX-81)  Platformą może być także język programowania lub skryptowania, np.</description>
     </item>
     
     <item>
