@@ -8,6 +8,15 @@
     <language>pl-PL</language>
     <lastBuildDate>Fri, 04 Dec 2020 23:23:46 +0100</lastBuildDate><atom:link href="https://kskpd.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Low Res Demo</title>
+      <link>https://kskpd.pl/timeline/1987_lowres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1987_lowres/</guid>
+      <description>Na Atari ST pierwszą demoscenową grupą była TNT-Crew (demo “LoveSpay”) i Pokey Soft z demem “A Low Res Demo” z 1987. Lata następne to już coraz większy rozwój demosceny i produkcje grupy The Lost Boys (1988) czy imponujące demo grupy Union (1989).</description>
+    </item>
+    
+    <item>
       <title>ANSI Art</title>
       <link>https://kskpd.pl/slownik/ansi_art/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -156,6 +165,15 @@ Początki demosceny jako zjawiska kulturowego w Polsce sięgają lat 80. XX wiek
     </item>
     
     <item>
+      <title>gr8</title>
+      <link>https://kskpd.pl/timeline/1988_qr8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1988_qr8/</guid>
+      <description>Pierwszą grupą na demoscenie PC było fińskie Future Crew. Zaczęli na C64, zostawiając po sobie dwa dema i cracktro (1987), aby przejść na PC rok później z produkcją na EGA “QR8” (1988) i demem Yo! (1989).</description>
+    </item>
+    
+    <item>
       <title>grafik</title>
       <link>https://kskpd.pl/slownik/grafik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -289,6 +307,15 @@ Można należeć do więcej niż jednej grupy demoscenowej. Przynależność do 
       
       <guid>https://kskpd.pl/slownik/lamerstwo/</guid>
       <description>(z ang. lame, czyli ułomny, słaby) zachowanie poniżej specyficznych demoscenowych standardów. Przykłady z życia: stworzenie dema, które nie uruchamia się poza maszyną kodera; zeskanowanie ilustracji i wystawienie jej na compo jako własnej pracy; sprzeniewierzenie opłat za wstęp na party. Lamer = cienias. Dziś określenie używanie raczej prześmiewczo lub w sytuacjach ocenianych jako nieoptymalne.</description>
+    </item>
+    
+    <item>
+      <title>Longshot Demo 3</title>
+      <link>https://kskpd.pl/timeline/1988_longshot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1988_longshot/</guid>
+      <description>W roku 1988 powstała najstarsza demoscenowa grupa na Amstrada: Logon System. Francuzi wypuścili serię “Longshot demo” i potem w 1991 przełomowe “The Demo”, które inspiruje wielu posiadaczy tego komputera do czasów obecnych.</description>
     </item>
     
     <item>
@@ -429,6 +456,15 @@ Większość znanych polskich party organizowane cyklicznie: AmiParty (Amiga, od
     </item>
     
     <item>
+      <title>Snoopy Demo</title>
+      <link>https://kskpd.pl/timeline/1987_snoopy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1987_snoopy/</guid>
+      <description>Na małym Atari na początku było wiele działań komercyjnych, klubów typu Abbuc oraz pojedynczych pasjonatów i ekip stricte crakerskich. Za jedną z pierwszych grup demoscenowych uznaje się Atari Team z Niemiec. Na początku ich dzieła były pod dużym wpływem cracksceny. Dopiero w następnych latach, niezależnie, w różnych krajach, powstały grupy tworzące szerszą społeczność, gdzie prym dzierżyła także Polska (JAO WAO BCA znane również jako Pink Softhard, OUR 5OFT -1988), Holandia (High Team High, 1989) oraz Niemcy (A and B Soft, Creative Soft- 1989).</description>
+    </item>
+    
+    <item>
       <title>sprzęt</title>
       <link>https://kskpd.pl/slownik/sprzet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -468,12 +504,57 @@ Materiały cyfrowe były początkowo rozsyłane na zamówienie na dyskietkach 5,
     </item>
     
     <item>
+      <title>TechTech</title>
+      <link>https://kskpd.pl/timeline/1987_techtech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1987_techtech/</guid>
+      <description>Gdy na Amidze w 1984 roku zaprezentowano “Boing demo”, to po pierwszym szoku koderzy zaczęli tworzyć podobny efekt na innych komputerach. Dwa lata później Megabyte Inc. stworzyło pierwsze intro/cracktro “Leader board”, gdzie motywem skaczącej piłeczki nawiązywali do tego efektu. W roku 1987 powstało wiele grup w tym samym czasie. Z tej kolekcji pierwszych demoscenowych dem wybraliśmy Magician72 z ich produkcją “Tech Tech”.</description>
+    </item>
+    
+    <item>
+      <title>The Art of Scrunk</title>
+      <link>https://kskpd.pl/timeline/1987_art_of_scrunk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1987_art_of_scrunk/</guid>
+      <description>The Lords, tak jak The Judges, pochodzili z Roosendaal i byli ich dobrymi kolegami. Grupa tworzyła na ZX Spectrum i uformowała się w 1986.</description>
+    </item>
+    
+    <item>
+      <title>Touch Me</title>
+      <link>https://kskpd.pl/timeline/1986_touch_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1986_touch_me/</guid>
+      <description>Pionierzy demosceny, czyli holenderska pierwsza grupa The Juges. Ich pierwsze demo nazywało się “Touch Me”. Najprawdopodobniej powstało z okazji dołączenia Red&amp;rsquo;a do zespołu.</description>
+    </item>
+    
+    <item>
+      <title>Trap Door (Castor Intro 2)</title>
+      <link>https://kskpd.pl/timeline/1987_trap_door/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1987_trap_door/</guid>
+      <description>Pionierzy demosceny na ZX Spectrum ze Szwecji. Mimo “cracking” w nazwie, grupa nie zajmowała się tym procederem. “Castor Intro” jest w tej chwili nie do znalezienia, ale można obejrzeć “Castor Intro II.</description>
+    </item>
+    
+    <item>
       <title>votka</title>
       <link>https://kskpd.pl/slownik/votka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kskpd.pl/slownik/votka/</guid>
       <description>Karta do głosowania podczas compotów na party. Każda osoba uprawniona do głosowania według zasad danego party oddaje na niej głosy podczas compo, przyznając punkty kolejnym prodkom. Po zakończeniu compo głosy są zliczane przez orgów lub wyznaczonych ochotników, na ich podstawie wyłaniane są zwycięskie prace.</description>
+    </item>
+    
+    <item>
+      <title>Warum</title>
+      <link>https://kskpd.pl/timeline/1993_warum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1993_warum/</guid>
+      <description>Demoscena Atari Falcon jest najmłodszą ze wszystkich. Pierwsze produkcje zaczęły powstawać dosyć szybko po premierze komputera wraz z falą pionierskich grup, np. Aura (1992) i następne Black Scorpion, Light, Eko (1993). Wiele osób naturalnie przeszło ze sceny Atari ST.</description>
     </item>
     
     <item>

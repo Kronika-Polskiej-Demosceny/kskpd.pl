@@ -8,6 +8,15 @@
     <language>pl-PL</language>
     <lastBuildDate>Fri, 04 Dec 2020 23:23:46 +0100</lastBuildDate><atom:link href="https://kskpd.pl/timeline/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Low Res Demo</title>
+      <link>https://kskpd.pl/timeline/1987_lowres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1987_lowres/</guid>
+      <description>Na Atari ST pierwszą demoscenową grupą była TNT-Crew (demo “LoveSpay”) i Pokey Soft z demem “A Low Res Demo” z 1987. Lata następne to już coraz większy rozwój demosceny i produkcje grupy The Lost Boys (1988) czy imponujące demo grupy Union (1989).</description>
+    </item>
+    
+    <item>
       <title>BigShit Demo part IV</title>
       <link>https://kskpd.pl/timeline/1987_bigshit4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,12 +44,30 @@
     </item>
     
     <item>
+      <title>gr8</title>
+      <link>https://kskpd.pl/timeline/1988_qr8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1988_qr8/</guid>
+      <description>Pierwszą grupą na demoscenie PC było fińskie Future Crew. Zaczęli na C64, zostawiając po sobie dwa dema i cracktro (1987), aby przejść na PC rok później z produkcją na EGA “QR8” (1988) i demem Yo! (1989).</description>
+    </item>
+    
+    <item>
       <title>Holiday in Moscow</title>
       <link>https://kskpd.pl/timeline/1989_holidayinmoscow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kskpd.pl/timeline/1989_holidayinmoscow/</guid>
       <description>Jeżeli ktoś miał Amigę w 1989 roku, to mógł zobaczyć pierwsze demo w Polsce na ten komputer. Była to produkcja wspomnianej wcześniej grupy Quartet, czyli „Holiday In Moscow”, które zakodowane zostało przez Duddiego. Znana z C64 grupa zaczęła przechodzić na następną platformę wydając magazyn Kebab. Rok później w numerze trzecim tego periodyku pojawił się raport Mr. Rafa z pierwszego zlotu fanów komputera Amiga. Można było tam przeczytać: „Co bardziej niedoświadczeni nowicjusze rozpoczęli zmagania z najnowszymi grami lub pielgrzymkę od stanowiska do stanowiska w poszukiwaniu najnowszego stuffu.</description>
+    </item>
+    
+    <item>
+      <title>Longshot Demo 3</title>
+      <link>https://kskpd.pl/timeline/1988_longshot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1988_longshot/</guid>
+      <description>W roku 1988 powstała najstarsza demoscenowa grupa na Amstrada: Logon System. Francuzi wypuścili serię “Longshot demo” i potem w 1991 przełomowe “The Demo”, które inspiruje wielu posiadaczy tego komputera do czasów obecnych.</description>
     </item>
     
     <item>
@@ -62,12 +89,66 @@
     </item>
     
     <item>
+      <title>Snoopy Demo</title>
+      <link>https://kskpd.pl/timeline/1987_snoopy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1987_snoopy/</guid>
+      <description>Na małym Atari na początku było wiele działań komercyjnych, klubów typu Abbuc oraz pojedynczych pasjonatów i ekip stricte crakerskich. Za jedną z pierwszych grup demoscenowych uznaje się Atari Team z Niemiec. Na początku ich dzieła były pod dużym wpływem cracksceny. Dopiero w następnych latach, niezależnie, w różnych krajach, powstały grupy tworzące szerszą społeczność, gdzie prym dzierżyła także Polska (JAO WAO BCA znane również jako Pink Softhard, OUR 5OFT -1988), Holandia (High Team High, 1989) oraz Niemcy (A and B Soft, Creative Soft- 1989).</description>
+    </item>
+    
+    <item>
       <title>Swenty Cola</title>
       <link>https://kskpd.pl/timeline/1991_swentycola/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kskpd.pl/timeline/1991_swentycola/</guid>
       <description>Jeżeli chodzi o Polskę i Atari ST, to najpierw na giełdach komputerowych zaczęły się pojawiać produkcje grupy Quant. W 1989 roku wydali music disk „The yellow Mix Demo”. Następne lata to przede wszystkim działalność takich grup jak: Team From The East wydającą maga The Voice (1991), czy Atari STe Fan Crew (demo Swenty Cola, 1991).</description>
+    </item>
+    
+    <item>
+      <title>TechTech</title>
+      <link>https://kskpd.pl/timeline/1987_techtech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1987_techtech/</guid>
+      <description>Gdy na Amidze w 1984 roku zaprezentowano “Boing demo”, to po pierwszym szoku koderzy zaczęli tworzyć podobny efekt na innych komputerach. Dwa lata później Megabyte Inc. stworzyło pierwsze intro/cracktro “Leader board”, gdzie motywem skaczącej piłeczki nawiązywali do tego efektu. W roku 1987 powstało wiele grup w tym samym czasie. Z tej kolekcji pierwszych demoscenowych dem wybraliśmy Magician72 z ich produkcją “Tech Tech”.</description>
+    </item>
+    
+    <item>
+      <title>The Art of Scrunk</title>
+      <link>https://kskpd.pl/timeline/1987_art_of_scrunk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1987_art_of_scrunk/</guid>
+      <description>The Lords, tak jak The Judges, pochodzili z Roosendaal i byli ich dobrymi kolegami. Grupa tworzyła na ZX Spectrum i uformowała się w 1986.</description>
+    </item>
+    
+    <item>
+      <title>Touch Me</title>
+      <link>https://kskpd.pl/timeline/1986_touch_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1986_touch_me/</guid>
+      <description>Pionierzy demosceny, czyli holenderska pierwsza grupa The Juges. Ich pierwsze demo nazywało się “Touch Me”. Najprawdopodobniej powstało z okazji dołączenia Red&amp;rsquo;a do zespołu.</description>
+    </item>
+    
+    <item>
+      <title>Trap Door (Castor Intro 2)</title>
+      <link>https://kskpd.pl/timeline/1987_trap_door/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1987_trap_door/</guid>
+      <description>Pionierzy demosceny na ZX Spectrum ze Szwecji. Mimo “cracking” w nazwie, grupa nie zajmowała się tym procederem. “Castor Intro” jest w tej chwili nie do znalezienia, ale można obejrzeć “Castor Intro II.</description>
+    </item>
+    
+    <item>
+      <title>Warum</title>
+      <link>https://kskpd.pl/timeline/1993_warum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1993_warum/</guid>
+      <description>Demoscena Atari Falcon jest najmłodszą ze wszystkich. Pierwsze produkcje zaczęły powstawać dosyć szybko po premierze komputera wraz z falą pionierskich grup, np. Aura (1992) i następne Black Scorpion, Light, Eko (1993). Wiele osób naturalnie przeszło ze sceny Atari ST.</description>
     </item>
     
   </channel>
