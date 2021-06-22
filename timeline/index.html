@@ -106,438 +106,571 @@
     </div>
 </section>
 
+    
 
-        <section id="timeline-embed">
-            <div id="timeline"></div>
-        </section>
-        <link rel="stylesheet" href="css/fonts/font.knightlab.css">
-        <link title="timeline-styles" rel="stylesheet" href="css/timeline.css">
-        <link title="timeline-styles" rel="stylesheet" href="css/themes/timeline.theme.kpd.css">
-        <script src="js/timeline.js"></script>
-        
-        <script>
-            function calc()  {
-                var header = document.getElementById('home');
-                var footer  =  document.getElementById('footer');
-                var header_h = parseInt(getComputedStyle(header).height)
-                var footer_h = parseInt(getComputedStyle(footer).height)
+    <section class="section bg-light timeline_toc">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-12">
+                  <div class="text-center section_title">
+                      <div class="section_title_border">
+                          <div class="f-border"></div>
+                          <div class="s-border"></div>
+                          <div class="f-border"></div>
+                          <p class="sec_small_title mb-0 text-custom d-inline-block">Linia Czasu</p>
+                          <div class="f-border"></div>
+                          <div class="s-border"></div>
+                          <div class="f-border"></div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="row">
+            
+            
+            
+            
+            
+            
+            
+              
+              
+              
                 
-                return window.innerHeight - header_h - footer_h;
-            }
+                  
+                  
+                  
+                  
+                
+                
+              
+            
+              
+              
+              
+                
+                  
+                  
+                  
+                  
+                
+                
+              
+            
+              
+              
+              
+              
+            
+              
+              
+              
+              
+            
+              
+              
+              
+              
+            
+              
+              
+              
+              
+            
+              
+              
+              
+              
+            
+              
+              
+              
+              
+            
+              
+              
+              
+                
+                  
+                  
+                  
+                  
+                
+                
+              
+            
+              
+              
+              
+              
+            
+              
+              
+              
+              
+            
+              
+              
+              
+                
+                  
+                  
+                  
+                  
+                
+                
+              
+            
+              
+              
+              
+                
+                  
+                  
+                  
+                  
+                
+                
+              
+            
+              
+              
+              
+                
+                  
+                  
+                  
+                  
+                
+                
+              
+            
+              
+              
+              
+              
+            
+              
+              
+              
+                
+                  
+                  
+                  
+                  
+                
+                
+              
+            
+              <div class="col-lg-12 text-center"><ul>
+                
+                  <li><a href="https://kskpd.pl/timeline/#start_1986" class="">1986</a></li>
+                
+                  <li><a href="https://kskpd.pl/timeline/#start_1987" class="short">7</a></li>
+                
+                  <li><a href="https://kskpd.pl/timeline/#start_1988" class="short">8</a></li>
+                
+                  <li><a href="https://kskpd.pl/timeline/#start_1989" class="short">9</a></li>
+                
+                  <li><a href="https://kskpd.pl/timeline/#start_1991" class="">1991</a></li>
+                
+                  <li><a href="https://kskpd.pl/timeline/#start_1993" class="short">3</a></li>
+                
+                  <li><a href="https://kskpd.pl/timeline/#start_1996" class="short">6</a></li>
+                
+              </ul></div>
+          </div>
+      </div>
+  </section>
 
-            var json = {
-                events: [
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/www.youtube.com\/watch?v=OHwzm8JRaYk",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/OHwzm8JRaYk\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1987",
-                                  
-                                  
-                                    month: "01",
-                                  
-                                  
-                                },
-                                group: "zagranica",
-                                display_date:  "Norwegia, 1987",
-                                text: {
-                                  headline: "A Low Res Demo  / Pokey Soft",
-                                  text: "\u003cp\u003eNa Atari ST pierwszą demoscenową grupą była TNT-Crew (demo “LoveSpay”) i Pokey Soft z demem “A Low Res Demo” z 1987. Lata następne to już coraz większy rozwój demosceny i produkcje grupy The Lost Boys (1988) czy imponujące demo grupy Union (1989).\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/youtu.be\/5ApVEwL7jGI",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/5ApVEwL7jGI\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1987",
-                                  
-                                  
-                                    month: "07",
-                                  
-                                  
-                                    day: "10",
-                                  
-                                },
-                                group: "polska",
-                                display_date:  "Skierniewice, 1987",
-                                text: {
-                                  headline: "BigShit Demo part IV  / Hacker Chris",
-                                  text: "\u003cp\u003eW 1987 pojawiają się pierwsze muzyczne dema na ZX Spectrum tworzone przez Hackera Chrisa oraz music disk \u0026ldquo;M\u0026amp;Z Musics 2\u0026rdquo; (Macieja Zielińskiego). Co ciekawe te produkcje były definiowane wtedy jako demo, choć nie mały jeszcze cech produkcji z klasycznej demosceny. W 1988\/89 pojawiają się kolejne osoby, które tworzyły na ZX Spectrum. Dopiero w 1990 Hacker Chris tworzy program, który zawiera konkretny efekt. A w 1992 powstaje słynne demo grupy Pentagram „LSD Mega Demo” . W tym roku wychodzą też pierwsze magi: Sam Paper i Sam Magic. W połowie lat 90 następuje pierwszy mały zlot demosceny z Spectrum w Lubaniu. Polska scena ZX Spectrum działa prężnie do dziś.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/youtu.be\/lvnE95o7KJQ",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/lvnE95o7KJQ\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1996",
-                                  
-                                  
-                                    month: "08",
-                                  
-                                  
-                                    day: "03",
-                                  
-                                },
-                                group: "polska",
-                                display_date:  "Częstochowa, 1996",
-                                text: {
-                                  headline: "Firestarter  / Shadows",
-                                  text: "\u003cp\u003eAtari Falcon nie był popularnym sprzętem i pierwsze demo pojawiło się dopiero w 1996. Nazywało się „Firestarter”. Zostało stworzone przez grupę Shadows podczas Orneta Party. Mimo niewielkiego zasięgu, dema na Falcona, od czasu do czasu, pojawiają się do dziś.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/youtu.be\/RYBBgQPs3zA",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/RYBBgQPs3zA\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1993",
-                                  
-                                  
-                                    month: "12",
-                                  
-                                  
-                                },
-                                group: "polska",
-                                display_date:  "Ostrowiec Świętokrzyski, 1993",
-                                text: {
-                                  headline: "Fuck the Objects  / Adrar Design",
-                                  text: "\u003cp\u003eW profesjonalnym wydaniu Mikroklanu głównie o komputerze IBM PC w 1988 roku można było przeczytać, że: „Trudno się ustrzec od wrażenia,że IBM realizuje w Polsce politykę „być ponad”, czyli zaporowe ceny (specjalnie wyższe dla krajów RWPG) i minimalne nakłady na promocję. Przyjęto np. zasadę nie zamieszczania reklam w czasopismach, a udział w targach wynikał w zasadzie… z uprzejmości.” Dwa lata później około 3% czytelników Top Secretu użytkowało komputery klasy PC. Zazwyczaj były to składane klony, tańsze od markowych komputerów. Sytuacja zaczęła się zmieniać gry w 1992 roku Roman Kluska i Optimus zaczęli sprzedawać pierwsze tańsze w produkcji „składaki”. Najpierw tak jak w przypadku innych platform, pojawiły się zachodnie gry z cracktrami. Powoli coraz więcej osób zaczęło w różnych miejscach Polski myśleć, aby na wzór Amigi stworzyć podwaliny pod własną demoscenę, nie oglądając się na lokalną scenę warezową. W 1993 roku powstały dwie grupy wrocławska Substance i Adrar Desing z Ostrowca Świętokrzyskiego. Właśnie ta druga wypuściła pierwsze demo „Fuck the Objects”. Brakowało wtedy jeszcze internetu, więc grupy działały nie wiedząc na początku o sobie. Zmieniło się to w 1994 kiedy powstał pierwszy numer „Bad Newsa”, który był katalizatorem rodzącej się demosceny PC. Adrar Design wpadł na pomysł pierwszego party dedykowanego komputerom osobistym. W 1995 roku zorganizowano imprezę o wszystko mówiącej nazwie „Próba Generalna”. Informacje o niej można było znaleźć na przykład w telegazecie. Scena PC prężnie działa do dziś za granicą i w Polsce.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/www.youtube.com\/watch?v=YzRXfMOou_k",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/YzRXfMOou_k\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1988",
-                                  
-                                  
-                                    month: "01",
-                                  
-                                  
-                                },
-                                group: "zagranica",
-                                display_date:  "Finlandia, 1988",
-                                text: {
-                                  headline: "gr8  / Future Crew",
-                                  text: "\u003cp\u003ePierwszą grupą na demoscenie PC było fińskie Future Crew. Zaczęli na C64, zostawiając po sobie dwa dema i cracktro (1987), aby przejść na PC rok później z produkcją na EGA “QR8” (1988) i demem Yo! (1989).\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/youtu.be\/gO5Zzhzg3fg",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/gO5Zzhzg3fg\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1989",
-                                  
-                                  
-                                    month: "08",
-                                  
-                                  
-                                    day: "07",
-                                  
-                                },
-                                group: "polska",
-                                display_date:  "Szczecin, 1989",
-                                text: {
-                                  headline: "Holiday in Moscow  / Quartet",
-                                  text: "\u003cp\u003eJeżeli ktoś miał Amigę w 1989 roku, to mógł zobaczyć pierwsze demo w Polsce na ten komputer. Była to produkcja wspomnianej wcześniej grupy Quartet, czyli „Holiday In Moscow”, które zakodowane zostało przez Duddiego. Znana z C64 grupa zaczęła przechodzić na następną platformę wydając magazyn Kebab. Rok później w numerze trzecim tego periodyku pojawił się raport Mr. Rafa z pierwszego zlotu fanów komputera Amiga. Można było tam przeczytać: „Co bardziej niedoświadczeni nowicjusze rozpoczęli zmagania z najnowszymi grami lub pielgrzymkę od stanowiska do stanowiska w poszukiwaniu najnowszego stuffu. I tak powoli atmosfera zaczęła nabierać coraz bardziej  cech polskiej sceny komputerowej”. W tym czasie oprócz Quartetu na scenie działał  W.F.M.H. i pojawiła się grupa Katharsis. W 1991 odbyło się pierwsze demoscenowe party w Gdyni. Potem nastąpił wysyp magów, grup i wszelakich produkcji. Przez lata polska scena amigowa była zjawiskiem, które wpłynęło na całość demosceny.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/www.youtube.com\/watch?v=35ra_42bBM0",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/35ra_42bBM0\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1988",
-                                  
-                                  
-                                    month: "07",
-                                  
-                                  
-                                },
-                                group: "zagranica",
-                                display_date:  "Francja, 1988",
-                                text: {
-                                  headline: "Longshot Demo 3  / Logon System",
-                                  text: "\u003cp\u003eW roku 1988 powstała najstarsza demoscenowa grupa na Amstrada: Logon System. Francuzi wypuścili serię “Longshot demo” i potem w 1991 przełomowe “The Demo”, które inspiruje wielu posiadaczy tego komputera do czasów obecnych.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/youtu.be\/_9lZWsHffiU",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/_9lZWsHffiU\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1987",
-                                  
-                                  
-                                  
-                                },
-                                group: "polska",
-                                display_date:  "Bytom, 1987",
-                                text: {
-                                  headline: "Microdemo II  / EGR General Programming",
-                                  text: "\u003cp\u003eW przełomowym 1985 roku Lucjan Wencel nawiązał współpracę z Atari i Peweksem. To dzięki jego inicjatywie na początku tego roku w Przedsiębiorstwie Eksportu Wewnętrznego pojawił się w sprzedaży komputer Atari. Wcześniej zaczęły też docierać zza zachodniej granicy, wraz z kupowanymi tam komputerami, złamane gry, nieliczne z zachodnimi cracktrami (to był zalążek demosceny). Ówcześnie, z powodu braku dostępu do oryginalnych wydań gier, nie istniała lokalna scena crackerska, a dystrybutorzy oprogramowania (w niemal 100% nielicencjonowanego) zadowalali się sprzedawaniem wcześniej już złamanych gier na giełdach i w tzw. “studiach komputerowych”.\u003c\/p\u003e\n\u003cp\u003eNa przełomie maja i czerwca 1986 r. nieliczni jeszcze atarowcy mieli okazję spotkać się na Ogólnopolskim Spotkaniu Użytkowników w Krakowie. W następnym roku pojawiły się pierwsze dema Marka Góreckiego, znanego szerzej jako EGR General Progamming (również Górecki Productions), a już w 1988 powstały pierwsze grupy z podziałem na role (koder, grafik, muzyk, itd.). 1990 rok to pierwsze polskie copy party: Atari Stars Party w Gdańsku. Następne lata to silny rozwój i umocnienie się sceny, wkrótce pojawiły się pierwsze magi jak np. Oddech Latryny czy Paczka Tynku, a w 1994 odbyło się kultowe party w Mirowie (Shadows Party). Od lat demoscena Atari z Polski jest najaktywniejsza na świecie i wciąż tworzy nowe produkcje.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/youtu.be\/4FJeg04Kt3k",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/4FJeg04Kt3k\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1988",
-                                  
-                                  
-                                    month: "08",
-                                  
-                                  
-                                },
-                                group: "polska",
-                                display_date:  "Szczecin, 1988",
-                                text: {
-                                  headline: "No Problems  / Quartet",
-                                  text: "\u003cp\u003eW 1986 roku sieć sklepów Baltona zaczęła oferować konkurencyjny dla Atari model 8 bitowego komputera, czyli Commodore 64. Miał on premierę w 1982 roku, ale każdego gracza, mimo wysokiej ceny, kusiła ogromna liczba gier. Większość z nich miała efektowne Cracktra i to musiało zainspirować ludzi w Polsce. W 1988 roku powstały dwie grupy Deuter i Quartet. Przy czym ta druga była swoistym fenomenem. Definiowała się zgodnie z zachodnią linią przekazu nie tylko jako grupa demoscenowa, ale także crackerska. Zaczęła od cracków, intr i dem i jeszcze w roku swojego powstania stworzyła pierwszy magazyn dyskowy na polskiej demoscenie, czyli „Cheat Magazine”. Zorganizowała także zlot „Quartet party”, który wtedy bardziej przypominał miting. Co ciekawe już wtedy w produkcjach można zauważyć zjawisko, które dziś nazywamy wojną platform. Nie oszczędzono ZX Spectrum - akurat dostało się crackerowi Billowi Gilbertowi. No i także dostało się Magnusowi z atarowskiej grupy W.F.M.H. W dalszych latach można zauważyć jak duży wpływ miała grupa Quartet nie tylko na scenę C64, ale także amigową. Produkcje na Commodore są tworzone na całym świecie chętnie do dziś i ciągle reprezentują coraz wyższy poziom nie tylko artystyczny, ale także techniczny.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/www.youtube.com\/watch?v=cYTun5h5wTU",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/cYTun5h5wTU\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1987",
-                                  
-                                  
-                                  
-                                },
-                                group: "zagranica",
-                                display_date:  "Niemcy, 1987",
-                                text: {
-                                  headline: "Snoopy Demo  / Atari Team",
-                                  text: "\u003cp\u003eNa małym Atari na początku było wiele działań komercyjnych, klubów typu Abbuc oraz pojedynczych pasjonatów i ekip stricte crakerskich. Za jedną z pierwszych grup demoscenowych uznaje się Atari Team z Niemiec. Na początku ich dzieła były pod dużym wpływem cracksceny. Dopiero w następnych latach, niezależnie, w różnych krajach, powstały grupy tworzące szerszą społeczność, gdzie prym dzierżyła także Polska (JAO WAO BCA znane również jako Pink Softhard, OUR 5OFT -1988), Holandia (High Team High, 1989) oraz Niemcy (A and B Soft, Creative Soft- 1989).\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/youtu.be\/SCXLiK6Tqgo",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/SCXLiK6Tqgo\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1991",
-                                  
-                                  
-                                    month: "07",
-                                  
-                                  
-                                    day: "04",
-                                  
-                                },
-                                group: "polska",
-                                display_date:  "Gdańsk, 1991",
-                                text: {
-                                  headline: "Swenty Cola  / ST(e) Fan Crew",
-                                  text: "\u003cp\u003eJeżeli chodzi o Polskę i Atari ST, to najpierw na giełdach komputerowych zaczęły się pojawiać produkcje grupy Quant. W 1989 roku wydali music disk „The yellow Mix Demo”. Następne lata to przede wszystkim działalność takich grup jak: Team From The East wydającą maga The Voice (1991), czy Atari STe Fan Crew (demo Swenty Cola, 1991).\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/www.youtube.com\/watch?v=W7TeV8ebHxA",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/W7TeV8ebHxA\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1987",
-                                  
-                                  
-                                    month: "11",
-                                  
-                                  
-                                    day: "17",
-                                  
-                                },
-                                group: "zagranica",
-                                display_date:  "Dania, 1987",
-                                text: {
-                                  headline: "TechTech  / Magician 42 and Sodan",
-                                  text: "\u003cp\u003eGdy na Amidze w 1984 roku zaprezentowano “Boing demo”, to po pierwszym szoku koderzy zaczęli tworzyć podobny efekt na innych komputerach. Dwa lata później Megabyte Inc. stworzyło pierwsze intro\/cracktro “Leader board”, gdzie motywem skaczącej piłeczki nawiązywali do tego efektu. W roku 1987 powstało wiele grup w tym samym czasie. Z tej kolekcji pierwszych demoscenowych dem wybraliśmy Magician72 z ich produkcją “Tech Tech”.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/www.youtube.com\/watch?v=xh1PFcRFXsg",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/xh1PFcRFXsg\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1987",
-                                  
-                                  
-                                  
-                                },
-                                group: "zagranica",
-                                display_date:  "Holandia, 1987",
-                                text: {
-                                  headline: "The Art of Scrunk  / The Lords",
-                                  text: "\u003cp\u003eThe Lords, tak jak The Judges, pochodzili z Roosendaal i byli ich dobrymi kolegami. Grupa tworzyła na ZX Spectrum i uformowała się w 1986.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/www.youtube.com\/watch?v=PV_qLO3gvy8",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/PV_qLO3gvy8\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1986",
-                                  
-                                  
-                                  
-                                },
-                                group: "zagranica",
-                                display_date:  "Holandia, 1986",
-                                text: {
-                                  headline: "Touch Me  / The Judges",
-                                  text: "\u003cp\u003ePionierzy demosceny, czyli holenderska pierwsza grupa The Juges. Ich pierwsze demo nazywało się “Touch Me”. Najprawdopodobniej powstało z okazji dołączenia Red\u0026rsquo;a do zespołu.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/www.youtube.com\/watch?v=oMsyOf4var4",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/oMsyOf4var4\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1987",
-                                  
-                                  
-                                  
-                                },
-                                group: "zagranica",
-                                display_date:  "Szwecja, 1987",
-                                text: {
-                                  headline: "Trap Door (Castor Intro 2)  / Castor Cracking Group",
-                                  text: "\u003cp\u003ePionierzy demosceny na ZX Spectrum ze Szwecji. Mimo “cracking” w nazwie, grupa nie zajmowała się tym procederem. “Castor Intro” jest w tej chwili nie do znalezienia, ale można obejrzeć “Castor Intro II.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                            {
-                                media: {
-                                  url: "https:\/\/www.youtube.com\/watch?v=CRCVbjwCJ2s",
-                                  thumbnail: "https:\/\/i3.ytimg.com\/vi\/CRCVbjwCJ2s\/hqdefault.jpg",
-                                },
-                                
-                                
-                                start_date: {
-                                  
-                                    year: "1993",
-                                  
-                                  
-                                    month: "08",
-                                  
-                                  
-                                    day: "02",
-                                  
-                                },
-                                group: "zagranica",
-                                display_date:  "Niemcy i Austria, 1993",
-                                text: {
-                                  headline: "Warum  / Lazer \u0026 Aura",
-                                  text: "\u003cp\u003eDemoscena Atari Falcon jest najmłodszą ze wszystkich. Pierwsze produkcje zaczęły powstawać dosyć szybko po premierze komputera  wraz z falą pionierskich grup, np. Aura (1992) i następne Black Scorpion, Light, Eko (1993). Wiele osób naturalnie przeszło ze sceny Atari ST.\u003c\/p\u003e\n",
-                                }
-                            },
-                        
-                ]
-            };
-            $(window).on("load", function() {
-                var embed = document.getElementById('timeline-embed');
-                var height = calc()
-                embed.style.height = height + 'px'
-                var timeline = new TL.Timeline('timeline-embed', json, {
-                    language: "pl",
-                    timenav_position: "top",
-                    hash_bookmark: false,
-                    start_at_slide:  2 ,
-                    zoom_sequence: [0.5],
-                    initial_zoom: 0,
-                    optimal_tick_width: 40,
-                    timenav_height_percentage: 15,
-                    timenav_mobile_height_percentage:  20
-                });
-                window.addEventListener('resize', function() {
-                    var  height = calc()
-                    embed.style.height = height + 'px'
-                    timeline.updateDisplay();
-                })
-            });
-        </script>        
+  <section class="section bg-light mt-0 pt-0">
+    <div class="container">
+      <ul class="timeline">
+        
+        
+        
+        
+        
+          <li>
+            
+            
+            
+              <div class="direction-r" id="start_1986">
+              
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">Touch Me</span>
+                
+                
+                
+                
+                <span class="time-wrapper"><span class="time"> 1986</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://www.youtube.com/watch?v=PV_qLO3gvy8"><img src="https://i3.ytimg.com/vi/PV_qLO3gvy8/hqdefault.jpg"/></a></div><p><p>Pionierzy demosceny, czyli holenderska pierwsza grupa The Juges. Ich pierwsze demo nazywało się “Touch Me”. Najprawdopodobniej powstało z okazji dołączenia Red&rsquo;a do zespołu.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+              <div class="direction-l" id="start_1987">
+              
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">Microdemo II</span>
+                
+                
+                
+                
+                <span class="time-wrapper"><span class="time"> 1987</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://youtu.be/_9lZWsHffiU"><img src="https://i3.ytimg.com/vi/_9lZWsHffiU/hqdefault.jpg"/></a></div><p><p>W przełomowym 1985 roku Lucjan Wencel nawiązał współpracę z Atari i Peweksem. To dzięki jego inicjatywie na początku tego roku w Przedsiębiorstwie Eksportu Wewnętrznego pojawił się w sprzedaży komputer Atari. Wcześniej zaczęły też docierać zza zachodniej granicy, wraz z kupowanymi tam komputerami, złamane gry, nieliczne z zachodnimi cracktrami (to był zalążek demosceny). Ówcześnie, z powodu braku dostępu do oryginalnych wydań gier, nie istniała lokalna scena crackerska, a dystrybutorzy oprogramowania (w niemal 100% nielicencjonowanego) zadowalali się sprzedawaniem wcześniej już złamanych gier na giełdach i w tzw. “studiach komputerowych”.</p>
+<p>Na przełomie maja i czerwca 1986 r. nieliczni jeszcze atarowcy mieli okazję spotkać się na Ogólnopolskim Spotkaniu Użytkowników w Krakowie. W następnym roku pojawiły się pierwsze dema Marka Góreckiego, znanego szerzej jako EGR General Progamming (również Górecki Productions), a już w 1988 powstały pierwsze grupy z podziałem na role (koder, grafik, muzyk, itd.). 1990 rok to pierwsze polskie copy party: Atari Stars Party w Gdańsku. Następne lata to silny rozwój i umocnienie się sceny, wkrótce pojawiły się pierwsze magi jak np. Oddech Latryny czy Paczka Tynku, a w 1994 odbyło się kultowe party w Mirowie (Shadows Party). Od lat demoscena Atari z Polski jest najaktywniejsza na świecie i wciąż tworzy nowe produkcje.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+            <div class="direction-r">
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">Trap Door (Castor Intro 2)</span>
+                
+                
+                
+                
+                <span class="time-wrapper"><span class="time"> 1987</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://www.youtube.com/watch?v=oMsyOf4var4"><img src="https://i3.ytimg.com/vi/oMsyOf4var4/hqdefault.jpg"/></a></div><p><p>Pionierzy demosceny na ZX Spectrum ze Szwecji. Mimo “cracking” w nazwie, grupa nie zajmowała się tym procederem. “Castor Intro” jest w tej chwili nie do znalezienia, ale można obejrzeć “Castor Intro II.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+            <div class="direction-l">
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">The Art of Scrunk</span>
+                
+                
+                
+                
+                <span class="time-wrapper"><span class="time"> 1987</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://www.youtube.com/watch?v=xh1PFcRFXsg"><img src="https://i3.ytimg.com/vi/xh1PFcRFXsg/hqdefault.jpg"/></a></div><p><p>The Lords, tak jak The Judges, pochodzili z Roosendaal i byli ich dobrymi kolegami. Grupa tworzyła na ZX Spectrum i uformowała się w 1986.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+            <div class="direction-r">
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">Snoopy Demo</span>
+                
+                
+                
+                
+                <span class="time-wrapper"><span class="time"> 1987</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://www.youtube.com/watch?v=cYTun5h5wTU"><img src="https://i3.ytimg.com/vi/cYTun5h5wTU/hqdefault.jpg"/></a></div><p><p>Na małym Atari na początku było wiele działań komercyjnych, klubów typu Abbuc oraz pojedynczych pasjonatów i ekip stricte crakerskich. Za jedną z pierwszych grup demoscenowych uznaje się Atari Team z Niemiec. Na początku ich dzieła były pod dużym wpływem cracksceny. Dopiero w następnych latach, niezależnie, w różnych krajach, powstały grupy tworzące szerszą społeczność, gdzie prym dzierżyła także Polska (JAO WAO BCA znane również jako Pink Softhard, OUR 5OFT -1988), Holandia (High Team High, 1989) oraz Niemcy (A and B Soft, Creative Soft- 1989).</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+            <div class="direction-l">
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">A Low Res Demo</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Styczeń 1987</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://www.youtube.com/watch?v=OHwzm8JRaYk"><img src="https://i3.ytimg.com/vi/OHwzm8JRaYk/hqdefault.jpg"/></a></div><p><p>Na Atari ST pierwszą demoscenową grupą była TNT-Crew (demo “LoveSpay”) i Pokey Soft z demem “A Low Res Demo” z 1987. Lata następne to już coraz większy rozwój demosceny i produkcje grupy The Lost Boys (1988) czy imponujące demo grupy Union (1989).</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+            <div class="direction-r">
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">BigShit Demo part IV</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Lipiec 1987</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://youtu.be/5ApVEwL7jGI"><img src="https://i3.ytimg.com/vi/5ApVEwL7jGI/hqdefault.jpg"/></a></div><p><p>W 1987 pojawiają się pierwsze muzyczne dema na ZX Spectrum tworzone przez Hackera Chrisa oraz music disk &ldquo;M&amp;Z Musics 2&rdquo; (Macieja Zielińskiego). Co ciekawe te produkcje były definiowane wtedy jako demo, choć nie mały jeszcze cech produkcji z klasycznej demosceny. W 1988/89 pojawiają się kolejne osoby, które tworzyły na ZX Spectrum. Dopiero w 1990 Hacker Chris tworzy program, który zawiera konkretny efekt. A w 1992 powstaje słynne demo grupy Pentagram „LSD Mega Demo” . W tym roku wychodzą też pierwsze magi: Sam Paper i Sam Magic. W połowie lat 90 następuje pierwszy mały zlot demosceny z Spectrum w Lubaniu. Polska scena ZX Spectrum działa prężnie do dziś.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+            <div class="direction-l">
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">TechTech</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Listopad 1987</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://www.youtube.com/watch?v=W7TeV8ebHxA"><img src="https://i3.ytimg.com/vi/W7TeV8ebHxA/hqdefault.jpg"/></a></div><p><p>Gdy na Amidze w 1984 roku zaprezentowano “Boing demo”, to po pierwszym szoku koderzy zaczęli tworzyć podobny efekt na innych komputerach. Dwa lata później Megabyte Inc. stworzyło pierwsze intro/cracktro “Leader board”, gdzie motywem skaczącej piłeczki nawiązywali do tego efektu. W roku 1987 powstało wiele grup w tym samym czasie. Z tej kolekcji pierwszych demoscenowych dem wybraliśmy Magician72 z ich produkcją “Tech Tech”.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+              <div class="direction-r" id="start_1988">
+              
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">gr8</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Styczeń 1988</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://www.youtube.com/watch?v=YzRXfMOou_k"><img src="https://i3.ytimg.com/vi/YzRXfMOou_k/hqdefault.jpg"/></a></div><p><p>Pierwszą grupą na demoscenie PC było fińskie Future Crew. Zaczęli na C64, zostawiając po sobie dwa dema i cracktro (1987), aby przejść na PC rok później z produkcją na EGA “QR8” (1988) i demem Yo! (1989).</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+            <div class="direction-l">
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">Longshot Demo 3</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Lipiec 1988</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://www.youtube.com/watch?v=35ra_42bBM0"><img src="https://i3.ytimg.com/vi/35ra_42bBM0/hqdefault.jpg"/></a></div><p><p>W roku 1988 powstała najstarsza demoscenowa grupa na Amstrada: Logon System. Francuzi wypuścili serię “Longshot demo” i potem w 1991 przełomowe “The Demo”, które inspiruje wielu posiadaczy tego komputera do czasów obecnych.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+            <div class="direction-r">
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">No Problems</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Sierpień 1988</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://youtu.be/4FJeg04Kt3k"><img src="https://i3.ytimg.com/vi/4FJeg04Kt3k/hqdefault.jpg"/></a></div><p><p>W 1986 roku sieć sklepów Baltona zaczęła oferować konkurencyjny dla Atari model 8 bitowego komputera, czyli Commodore 64. Miał on premierę w 1982 roku, ale każdego gracza, mimo wysokiej ceny, kusiła ogromna liczba gier. Większość z nich miała efektowne Cracktra i to musiało zainspirować ludzi w Polsce. W 1988 roku powstały dwie grupy Deuter i Quartet. Przy czym ta druga była swoistym fenomenem. Definiowała się zgodnie z zachodnią linią przekazu nie tylko jako grupa demoscenowa, ale także crackerska. Zaczęła od cracków, intr i dem i jeszcze w roku swojego powstania stworzyła pierwszy magazyn dyskowy na polskiej demoscenie, czyli „Cheat Magazine”. Zorganizowała także zlot „Quartet party”, który wtedy bardziej przypominał miting. Co ciekawe już wtedy w produkcjach można zauważyć zjawisko, które dziś nazywamy wojną platform. Nie oszczędzono ZX Spectrum - akurat dostało się crackerowi Billowi Gilbertowi. No i także dostało się Magnusowi z atarowskiej grupy W.F.M.H. W dalszych latach można zauważyć jak duży wpływ miała grupa Quartet nie tylko na scenę C64, ale także amigową. Produkcje na Commodore są tworzone na całym świecie chętnie do dziś i ciągle reprezentują coraz wyższy poziom nie tylko artystyczny, ale także techniczny.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+              <div class="direction-l" id="start_1989">
+              
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">Holiday in Moscow</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Sierpień 1989</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://youtu.be/gO5Zzhzg3fg"><img src="https://i3.ytimg.com/vi/gO5Zzhzg3fg/hqdefault.jpg"/></a></div><p><p>Jeżeli ktoś miał Amigę w 1989 roku, to mógł zobaczyć pierwsze demo w Polsce na ten komputer. Była to produkcja wspomnianej wcześniej grupy Quartet, czyli „Holiday In Moscow”, które zakodowane zostało przez Duddiego. Znana z C64 grupa zaczęła przechodzić na następną platformę wydając magazyn Kebab. Rok później w numerze trzecim tego periodyku pojawił się raport Mr. Rafa z pierwszego zlotu fanów komputera Amiga. Można było tam przeczytać: „Co bardziej niedoświadczeni nowicjusze rozpoczęli zmagania z najnowszymi grami lub pielgrzymkę od stanowiska do stanowiska w poszukiwaniu najnowszego stuffu. I tak powoli atmosfera zaczęła nabierać coraz bardziej  cech polskiej sceny komputerowej”. W tym czasie oprócz Quartetu na scenie działał  W.F.M.H. i pojawiła się grupa Katharsis. W 1991 odbyło się pierwsze demoscenowe party w Gdyni. Potem nastąpił wysyp magów, grup i wszelakich produkcji. Przez lata polska scena amigowa była zjawiskiem, które wpłynęło na całość demosceny.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+              <div class="direction-r" id="start_1991">
+              
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">Swenty Cola</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Lipiec 1991</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://youtu.be/SCXLiK6Tqgo"><img src="https://i3.ytimg.com/vi/SCXLiK6Tqgo/hqdefault.jpg"/></a></div><p><p>Jeżeli chodzi o Polskę i Atari ST, to najpierw na giełdach komputerowych zaczęły się pojawiać produkcje grupy Quant. W 1989 roku wydali music disk „The yellow Mix Demo”. Następne lata to przede wszystkim działalność takich grup jak: Team From The East wydającą maga The Voice (1991), czy Atari STe Fan Crew (demo Swenty Cola, 1991).</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+              <div class="direction-l" id="start_1993">
+              
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">Warum</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Sierpień 1993</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://www.youtube.com/watch?v=CRCVbjwCJ2s"><img src="https://i3.ytimg.com/vi/CRCVbjwCJ2s/hqdefault.jpg"/></a></div><p><p>Demoscena Atari Falcon jest najmłodszą ze wszystkich. Pierwsze produkcje zaczęły powstawać dosyć szybko po premierze komputera  wraz z falą pionierskich grup, np. Aura (1992) i następne Black Scorpion, Light, Eko (1993). Wiele osób naturalnie przeszło ze sceny Atari ST.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+            <div class="direction-r">
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">Fuck the Objects</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Grudzień 1993</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://youtu.be/RYBBgQPs3zA"><img src="https://i3.ytimg.com/vi/RYBBgQPs3zA/hqdefault.jpg"/></a></div><p><p>W profesjonalnym wydaniu Mikroklanu głównie o komputerze IBM PC w 1988 roku można było przeczytać, że: „Trudno się ustrzec od wrażenia,że IBM realizuje w Polsce politykę „być ponad”, czyli zaporowe ceny (specjalnie wyższe dla krajów RWPG) i minimalne nakłady na promocję. Przyjęto np. zasadę nie zamieszczania reklam w czasopismach, a udział w targach wynikał w zasadzie… z uprzejmości.” Dwa lata później około 3% czytelników Top Secretu użytkowało komputery klasy PC. Zazwyczaj były to składane klony, tańsze od markowych komputerów. Sytuacja zaczęła się zmieniać gry w 1992 roku Roman Kluska i Optimus zaczęli sprzedawać pierwsze tańsze w produkcji „składaki”. Najpierw tak jak w przypadku innych platform, pojawiły się zachodnie gry z cracktrami. Powoli coraz więcej osób zaczęło w różnych miejscach Polski myśleć, aby na wzór Amigi stworzyć podwaliny pod własną demoscenę, nie oglądając się na lokalną scenę warezową. W 1993 roku powstały dwie grupy wrocławska Substance i Adrar Desing z Ostrowca Świętokrzyskiego. Właśnie ta druga wypuściła pierwsze demo „Fuck the Objects”. Brakowało wtedy jeszcze internetu, więc grupy działały nie wiedząc na początku o sobie. Zmieniło się to w 1994 kiedy powstał pierwszy numer „Bad Newsa”, który był katalizatorem rodzącej się demosceny PC. Adrar Design wpadł na pomysł pierwszego party dedykowanego komputerom osobistym. W 1995 roku zorganizowano imprezę o wszystko mówiącej nazwie „Próba Generalna”. Informacje o niej można było znaleźć na przykład w telegazecie. Scena PC prężnie działa do dziś za granicą i w Polsce.</p>
+</p></div>
+            </div>
+          </li>
+        
+          <li>
+            
+            
+            
+              <div class="direction-l" id="start_1996">
+              
+            
+
+              <div class="flag-wrapper">
+                <span class="hexa"></span>
+                <span class="flag">Firestarter</span>
+                
+                
+                
+                
+                  
+                  
+                
+                <span class="time-wrapper"><span class="time">Sierpień 1996</span></span>
+              </div>
+              <div class="desc"><div class="video"><a href="https://youtu.be/lvnE95o7KJQ"><img src="https://i3.ytimg.com/vi/lvnE95o7KJQ/hqdefault.jpg"/></a></div><p><p>Atari Falcon nie był popularnym sprzętem i pierwsze demo pojawiło się dopiero w 1996. Nazywało się „Firestarter”. Zostało stworzone przez grupę Shadows podczas Orneta Party. Mimo niewielkiego zasięgu, dema na Falcona, od czasu do czasu, pojawiają się do dziś.</p>
+</p></div>
+            </div>
+          </li>
+        
+      </ul>
+      </div>
+    </section>
 
         <footer class="bg-footer" id="footer">
     <div class="container">

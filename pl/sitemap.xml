@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://kskpd.pl/</loc>
     <lastmod>2020-12-04T23:23:46+01:00</lastmod>
@@ -15,38 +14,22 @@
                 hreflang="pl"
                 href="https://kskpd.pl/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/</loc>
     <lastmod>2020-12-04T23:23:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1987_lowres/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/ansi_art/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/ascii_art/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/bigscreen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1987_bigshit4/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -58,205 +41,105 @@
                 hreflang="pl"
                 href="https://kskpd.pl/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/chartsy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/chiptune/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/compo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/copy_party/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/cracking/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/cracktro/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/demo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/demoparty/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/demoscena/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1996_firestarter/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/friendship/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1993_fucktheobjects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1988_qr8/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/grafik/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/grafika/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/greetsy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/grupa/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/hacking/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1989_holidayinmoscow/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/ident/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/intro/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/invitka/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/koder/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/kompo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/kompot/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/koord/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/lameriada/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/lamerstwo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1988_longshot/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1987_microdemo_2/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/msx/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/muzyk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/muzyka/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/nick/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1988_noproblems/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/oldschool/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/org/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/party/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/partyplace/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/prodka/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/produkcja/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/rulez/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/scenowiec/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/sleeping_room/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1987_snoopy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/sprzet/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/suxx/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/swapper/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1991_swentycola/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -268,34 +151,19 @@
                 hreflang="pl"
                 href="https://kskpd.pl/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1987_techtech/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1987_art_of_scrunk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1986_touch_me/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1987_trap_door/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/votka/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/timeline/1993_warum/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kskpd.pl/slownik/zin/</loc>
   </url>
-  
 </urlset>
