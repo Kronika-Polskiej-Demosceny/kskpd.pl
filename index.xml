@@ -8,6 +8,16 @@
     <language>pl-PL</language>
     <lastBuildDate>Fri, 04 Dec 2020 23:23:46 +0100</lastBuildDate><atom:link href="https://kskpd.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>73ms</title>
+      <link>https://kskpd.pl/timeline/1998_73ms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1998_73ms/</guid>
+      <description>Cezar:
+ W tych latach na scenie zaczęła się dla mnie dziać magia… Wysprzęgliłem się wtedy kompletnie, sporadycznie obserwowałem co się dzieje, czego w sumie żałuję. Dzięki potężniejszym procesorom, lepszym kartom graficznym, ulepszonym algorytmom dema zaczęła stanowić prawdziwy element sztuki. Niby zawsze nim były, ale do pewnego momentu były próbami (poprzez brak mocy) dość hermetycznymi. To demo stanowi połączenie efektów, grafiki, przytłaczających dźwięków muzycznych i psychodelicznych efektów. Światła, obiekty 3D, wszystko łączy się w przedziwny sen.</description>
+    </item>
+    
+    <item>
       <title>A Low Res Demo</title>
       <link>https://kskpd.pl/timeline/1987_lowres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -138,6 +148,17 @@ Początki demosceny jako zjawiska kulturowego w Polsce sięgają lat 80. XX wiek
     </item>
     
     <item>
+      <title>Epilepsy</title>
+      <link>https://kskpd.pl/timeline/1997_epilepsy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1997_epilepsy/</guid>
+      <description>Cezar:
+ Kolejne demo moich znajomych. Tym razem osobistych. imprezowanie z Hypnotize zawsze było fajne, a do tego mieli talent. Ozir niestety odszedł od nas wcześnie :( Efekty 3D, true color, dobry design - tunele, synchronizacja do muzyki, wariacje na temat efektów świetlnych. Motyw przewodni - mózg, epilepsja, dość niepokojące, może przytłoczyć.
+ </description>
+    </item>
+    
+    <item>
       <title>Firestarter</title>
       <link>https://kskpd.pl/timeline/1996_firestarter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -208,6 +229,16 @@ Początki demosceny jako zjawiska kulturowego w Polsce sięgają lat 80. XX wiek
       <guid>https://kskpd.pl/slownik/grupa/</guid>
       <description>Zespół osób o różnych specjalizacjach zajmujących się tworzeniem produkcji. Główne specjalizacje to: koder, muzyk, grafik; w czasach przed powszechnym dostępem do internetu także swapper, w dzisiejszych czasach także koordynator. W grupie może współpracować więcej osób o tej samej specjalizacji.
 Można należeć do więcej niż jednej grupy demoscenowej. Przynależność do grupy tradycyjnie zapisuje się w formacie “Pseudonim / Grupa1^Grupa2^Grupa3” oraz można ją zaznaczać także w indywidualnych pracach. Przynależność obowiązuje do odwołania, zazwyczaj jest powodem do dumy.</description>
+    </item>
+    
+    <item>
+      <title>Gust</title>
+      <link>https://kskpd.pl/timeline/1995_gust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1995_gust/</guid>
+      <description>Cezar:
+ Widziałem to demo osobiście na Próba Generalna Party w 1995 roku i byłem pod ogromnym wrażeniem. Tam wszystko zagrało tak jak powinno, było na swoim miejscu. Na początku od razu z buta ‘spacer 3D’, później zabawy pixelami w 3D, fajne przejścia między efektami. Bardzo dobre zgranie z muzyką, widać ilość pracy, energii i estetyki przy realizacji. W sumie zawarte są wszystkie ‘obowiązkowe’ w tamtych czasach efekty :) Maf, Ari, Reset i Touldie zrobili świetną robotę.</description>
     </item>
     
     <item>
@@ -540,6 +571,16 @@ Materiały cyfrowe były początkowo rozsyłane na zamówienie na dyskietkach 5,
     </item>
     
     <item>
+      <title>Vitamine B666</title>
+      <link>https://kskpd.pl/timeline/1996_vitamineb666/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1996_vitamineb666/</guid>
+      <description>Cezar:
+ Tu już demo, którego nie miałem przyjemności oglądać na własnym PC. Wtedy scena weszła w fazę ‘wymagalności’ karty dźwiękowej Gravis Ultrasound. Z braku odpowiednich środków finansowych nie posiadałem jej nigdy, chociaż bardzo chciałem wstąpić do tego elitarnego klubu. Jakość dźwięku powalała wtedy, czasem zdarzało mi się pożyczyć od kolegi na noc czy dwie i robiłem sobie dłuższe spotkania z demami, które go używały. Obiekty 3D, diabelska otoczka, szubienice, efekty true color, demo mimo tego, że jest krótkie - podoba mi się nawet teraz.</description>
+    </item>
+    
+    <item>
       <title>votka</title>
       <link>https://kskpd.pl/slownik/votka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -555,6 +596,27 @@ Materiały cyfrowe były początkowo rozsyłane na zamówienie na dyskietkach 5,
       
       <guid>https://kskpd.pl/timeline/1993_warum/</guid>
       <description>Demoscena Atari Falcon jest najmłodszą ze wszystkich. Pierwsze produkcje zaczęły powstawać dosyć szybko po premierze komputera wraz z falą pionierskich grup, np. Aura (1992) i następne Black Scorpion, Light, Eko (1993). Wiele osób naturalnie przeszło ze sceny Atari ST.</description>
+    </item>
+    
+    <item>
+      <title>Wasteland</title>
+      <link>https://kskpd.pl/timeline/1994_wasteland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1994_wasteland/</guid>
+      <description>Cezar:
+ Krótkie, fajne demo, szczególnie jak na ‘tamte, polskie’ czasy. Samplowana muzyka Billy Idol’a, teksturowane sześciany, zoom-rotator, dużo animowanych obiektów 3D, tunel 3D, voxel space. Autorami byli Technomancer i Musashi. Czuć w demie pomysł, idea, dynamikę. Krótkie, zwarte, efektowne. Moim zdaniem Technomancer w tamtych czasach był jednym z lepszych koderów.
+ </description>
+    </item>
+    
+    <item>
+      <title>Wonder</title>
+      <link>https://kskpd.pl/timeline/1999_wonder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kskpd.pl/timeline/1999_wonder/</guid>
+      <description>Cezar:
+ Już przy 73ms/Pulse pisałem, że magia tworzy się przed oczami. Tutaj kontynuacja tego trendu. W początkach sceny efekt przeważnie był pojedynczy - coś się działo na ekranie, później efekt zmieniał się na kolejny. Z czasem, tak jak w tym demie, wiele elementów nakłada się na siebie - obiekty 3D generują mnóstwo źródeł światła, pod tym mamy grafikę, na to jest jeszcze rzucany efekt na tło - Technomancer bardzo wzbogacił swój warsztat :) Do tego Yoghurt, Camel&amp;hellip;</description>
     </item>
     
     <item>
