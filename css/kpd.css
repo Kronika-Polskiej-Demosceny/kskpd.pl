@@ -52,7 +52,6 @@ blockquote.blockquote:before  {
 }
 
 header {
-  background-image: url(../images/UNESCO_DEMOSCENE_1800x1200_v01.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   width: 100%;
