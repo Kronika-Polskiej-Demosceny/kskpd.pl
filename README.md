@@ -1,1 +1,0 @@
-# kskpd.pl

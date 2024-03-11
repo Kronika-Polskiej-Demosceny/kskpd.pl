@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on </title>
+    <link>http://kskpd.pl/en/blog/</link>
+    <description>Recent content in Blog on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://kskpd.pl/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We&#39;ve released an alubm!</title>
+      <link>http://kskpd.pl/en/blog/weve-released-an-alubm/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/en/blog/weve-released-an-alubm/</guid>
+      <description>&lt;p&gt;Thanks to the support of the National Heritage Institute within the &amp;ldquo;Intangible – Pass It On&amp;rdquo; program, and in collaboration with the distinguished sociologist Dr. Patryk Wasiak, we released an album titled &amp;ldquo;Polish Demoscene as a Community. Informal Practices of Polish Demoscene Contacts&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UNESCO Anniversary Gala</title>
+      <link>http://kskpd.pl/en/blog/unesco-anniversary-gala/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/en/blog/unesco-anniversary-gala/</guid>
+      <description>&lt;p&gt;Our representation, consisting of Andrzej &amp;ldquo;angelo&amp;rdquo; Lichnerowicz and Łukasz &amp;ldquo;zenial&amp;rdquo; Szałankiewicz, was invited to &lt;a href=&#34;https://nid.pl/2023/10/07/swieto-niematerialnego-dziedzictwa-kulturowego-2/&#34;&gt;The Celebration of the Intangible Cultural Heritage Festival in Zakopane&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We got this!</title>
+      <link>http://kskpd.pl/en/blog/we-got-this/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/en/blog/we-got-this/</guid>
+      <description>&lt;p&gt;The creativity of our demoscene now belongs to the digital heritage of Polish culture.&lt;/p&gt;&#xA;&lt;p&gt;And now, buckle up because it&amp;rsquo;s going to be classy. Thanks to the involvement of the Polish demoscene community, the Chronicle of Polish Demoscene Committee created and submitted an application for entry into the National List of Intangible Cultural Heritage. Today, a signed document has reached us. The application was accepted.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demoscena X UNESCO</title>
+      <link>http://kskpd.pl/en/blog/demoscena-x-unesco/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/en/blog/demoscena-x-unesco/</guid>
+      <description>&lt;p&gt;This weekend, a lecture by Andrzej &amp;ldquo;unjello&amp;rdquo; Lichnerowicz titled &amp;ldquo;Demoscene: UNESCO Digital Heritage&amp;rdquo; took place at a multi-platform demoparty, organized by the Polish demoscene &lt;a href=&#34;https://xenium.rocks/&#34;&gt;Xenium&lt;/a&gt; 2021.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on </title>
+    <link>http://kskpd.pl/pl/blog/</link>
+    <description>Recent content in Blog on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://kskpd.pl/pl/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wydaliśmy album!</title>
+      <link>http://kskpd.pl/pl/blog/wydali%C5%9Bmy-album/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/pl/blog/wydali%C5%9Bmy-album/</guid>
+      <description>&lt;p&gt;Dzięki wsparciu Narodowego Instytutu Dziedzictwa w ramach programu &amp;ldquo;Niematerialne &amp;ndash; przekaż dalej&amp;rdquo;, oraz przy współpracy z wyśmienitym socjologiem dr. Patrykiem Wasiakiem, wydaliśmy album pt. &amp;ldquo;Polska Demoscena jako wspólnota. Nieformalne praktyki kontaktów polskiej demosceny&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jubileuszowa Gala UNESCO</title>
+      <link>http://kskpd.pl/pl/blog/jubileuszowa-gala-unesco/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/pl/blog/jubileuszowa-gala-unesco/</guid>
+      <description>&lt;p&gt;Nasza reprezentacja w składzie Andrzej angelo Lichnerowicz oraz Łukasz zenial Szałankiewicz została zaproszona na &lt;a href=&#34;https://nid.pl/2023/10/07/swieto-niematerialnego-dziedzictwa-kulturowego-2/&#34;&gt;Obchody święta niematerialnego dziedzictwa kulturowego w Zakopanem&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mamy To!</title>
+      <link>http://kskpd.pl/pl/blog/mamy-to/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/pl/blog/mamy-to/</guid>
+      <description>&lt;p&gt;Twórczość naszej demosceny niniejszym należy do cyfrowego dziedzictwa polskiej kultury.&lt;/p&gt;&#xA;&lt;p&gt;A teraz zapnijcie pasy, bo będzie elegancko. Dzięki zaangażowaniu społeczności polskiej demosceny Komitet Kronika Polskiej Demosceny stworzył i złożył wniosek o wpis na Krajową Listę Niematerialnego Dziedzictwa Kulturowego. Dziś dotarł do nas podpisany dokument. Wniosek został przyjęty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demoscena X UNESCO</title>
+      <link>http://kskpd.pl/pl/blog/demoscena-x-unesco/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/pl/blog/demoscena-x-unesco/</guid>
+      <description>&lt;p&gt;W ten weekend odbyła się prelekcja Andrzeja &amp;ldquo;unjello&amp;rdquo; Lichnerowicza pt. &amp;ldquo;Demoscena: dziedzictwo cyfrowe UNESCO&amp;rdquo;. Stało się to na multiplatformowym demoparty, organizowanym przez polską demoscenę &lt;a href=&#34;https://xenium.rocks/&#34;&gt;Xenium&lt;/a&gt; 2021.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

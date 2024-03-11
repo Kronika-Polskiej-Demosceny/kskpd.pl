@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://kskpd.pl/pl/projekty/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://kskpd.pl/pl/projekty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Niematerialne - przekaż dalej</title>
+      <link>http://kskpd.pl/pl/projekty/album-demoscena-jako-wspolnota/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/pl/projekty/album-demoscena-jako-wspolnota/</guid>
+      <description>Dzięki wsparciu Narodowego Instytutu Dziedzictwa w ramach programu &amp;ldquo;Niematerialne &amp;ndash; przekaż dalej&amp;rdquo;, oraz przy współpracy z wyśmienitym socjologiem dr. Patrykiem Wasiakiem, wydaliśmy album pt. &amp;ldquo;Polska Demoscena jako wspólnota. Nieformalne praktyki kontaktów polskiej demosceny&amp;rdquo;.&#xA;Naszym celem było zgromadzenie, utrwalanie i upowszechnienie wiedzy o praktykach komunikacji i tworzeniu własnej identyfikacji polskiej demosceny. Tej samej demosceny, którą udało nam się wpisać na Krajową Listę Niematerialnego Dziedzictwa Kulturowego.&#xA;Coraz mniej osób pamięta wysyłanie listów oraz dystrybucję dem na dyskietkach.</description>
+    </item>
+    <item>
+      <title>Polski Wpis Unesco</title>
+      <link>http://kskpd.pl/pl/projekty/polski-wpis-unesco/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/pl/projekty/polski-wpis-unesco/</guid>
+      <description>Demoscena to międzynarodowa społeczność tworząca cyfrowe dzieła audiowizualne. Narzędziami artystów i artystek są urządzenia elektroniczne. Programy, muzyka i grafika powstają na najróżniejszym sprzęcie komputerowym i często przekraczają jego założenia techniczne — w imię sztuki.&#xA;Komitet Społeczny “Kronika Polskiej Demosceny” ściśle współpracował z zespołami demoscenowymi, organizacjami kulturalnymi oraz z osobami prowadzącymi badania naukowe dotyczące kultury i sztuki cyfrowej.&#xA;Całość zaczęła się gdzieś w 2019 roku, od tweeta ogłaszającego powstanie międzynarodowej inicjatywy The Art of Coding, mającej na celu uznanie twórczości demoscenowej jako rzemiosła i sztuki, których rozwój jest częścią współczesnej historii ludzkości.</description>
+    </item>
+  </channel>
+</rss>

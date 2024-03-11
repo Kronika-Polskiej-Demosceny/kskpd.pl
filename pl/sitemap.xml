@@ -2,180 +2,171 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kskpd.pl/</loc>
-    <lastmod>2020-12-04T23:23:46+01:00</lastmod>
+    <loc>http://kskpd.pl/pl/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://kskpd.pl/en/"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pl"
-                href="https://kskpd.pl/"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/"
                 />
   </url><url>
-    <loc>https://kskpd.pl/timeline/</loc>
-    <lastmod>2020-12-04T23:23:46+01:00</lastmod>
+    <loc>http://kskpd.pl/pl/projekty/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kskpd.pl/slownik/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1998_73ms/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1987_lowres/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/ansi_art/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/ascii_art/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/bigscreen/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1987_bigshit4/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/categories/</loc>
+    <loc>http://kskpd.pl/pl/blog/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://kskpd.pl/en/categories/"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pl"
-                href="https://kskpd.pl/categories/"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/blog/"
                 />
   </url><url>
-    <loc>https://kskpd.pl/slownik/chartsy/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/chiptune/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/compo/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/copy_party/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/cracking/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/cracktro/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/demo/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/demoparty/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/demoscena/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1997_epilepsy/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1996_firestarter/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/friendship/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1993_fucktheobjects/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1988_qr8/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/grafik/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/grafika/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/greetsy/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/grupa/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1995_gust/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/hacking/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1989_holidayinmoscow/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/ident/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/intro/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/invitka/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/koder/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/kompo/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/kompot/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/koord/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/lameriada/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/lamerstwo/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1988_longshot/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1987_microdemo_2/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/msx/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/muzyk/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/muzyka/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/nick/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1988_noproblems/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/oldschool/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/org/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/party/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/partyplace/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/prodka/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/produkcja/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/rulez/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/scenowiec/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/sleeping_room/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1987_snoopy/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/sprzet/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/suxx/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/slownik/swapper/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/timeline/1991_swentycola/</loc>
-  </url><url>
-    <loc>https://kskpd.pl/tags/</loc>
+    <loc>http://kskpd.pl/pl/projekty/album-demoscena-jako-wspolnota/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://kskpd.pl/en/tags/"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/projects/demoscene-as-a-community-album/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pl"
-                href="https://kskpd.pl/tags/"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/projekty/album-demoscena-jako-wspolnota/"
                 />
   </url><url>
-    <loc>https://kskpd.pl/timeline/1987_techtech/</loc>
+    <loc>http://kskpd.pl/pl/blog/wydali%C5%9Bmy-album/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/blog/weve-released-an-alubm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/blog/wydali%C5%9Bmy-album/"
+                />
   </url><url>
-    <loc>https://kskpd.pl/timeline/1987_art_of_scrunk/</loc>
+    <loc>http://kskpd.pl/pl/blog/jubileuszowa-gala-unesco/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/blog/unesco-anniversary-gala/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/blog/jubileuszowa-gala-unesco/"
+                />
   </url><url>
-    <loc>https://kskpd.pl/timeline/1986_touch_me/</loc>
+    <loc>http://kskpd.pl/pl/blog/mamy-to/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/blog/we-got-this/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/blog/mamy-to/"
+                />
   </url><url>
-    <loc>https://kskpd.pl/timeline/1987_trap_door/</loc>
+    <loc>http://kskpd.pl/pl/projekty/polski-wpis-unesco/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/projects/polish-entry-to-unesco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/projekty/polski-wpis-unesco/"
+                />
   </url><url>
-    <loc>https://kskpd.pl/timeline/1996_vitamineb666/</loc>
+    <loc>http://kskpd.pl/pl/blog/demoscena-x-unesco/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/blog/demoscena-x-unesco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/blog/demoscena-x-unesco/"
+                />
   </url><url>
-    <loc>https://kskpd.pl/slownik/votka/</loc>
+    <loc>http://kskpd.pl/pl/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/categories/"
+                />
   </url><url>
-    <loc>https://kskpd.pl/timeline/1993_warum/</loc>
+    <loc>http://kskpd.pl/pl/page/sztuka/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/page/sztuka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/page/sztuka/"
+                />
   </url><url>
-    <loc>https://kskpd.pl/timeline/1994_wasteland/</loc>
+    <loc>http://kskpd.pl/pl/page/technika/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/page/technika/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/page/technika/"
+                />
   </url><url>
-    <loc>https://kskpd.pl/timeline/1999_wonder/</loc>
+    <loc>http://kskpd.pl/pl/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/tags/"
+                />
   </url><url>
-    <loc>https://kskpd.pl/slownik/zin/</loc>
+    <loc>http://kskpd.pl/pl/page/o-nas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/page/about-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/page/o-nas/"
+                />
   </url>
 </urlset>
