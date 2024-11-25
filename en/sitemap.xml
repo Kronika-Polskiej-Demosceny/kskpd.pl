@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kskpd.pl/en/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
@@ -16,7 +16,20 @@
                 />
   </url><url>
     <loc>http://kskpd.pl/en/projects/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://kskpd.pl/en/projects/dataset/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/projekty/dataset/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/projects/dataset/"
+                />
   </url><url>
     <loc>http://kskpd.pl/en/blog/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
@@ -44,7 +57,7 @@
                 href="http://kskpd.pl/en/projects/demoscene-as-a-community-album/"
                 />
   </url><url>
-    <loc>http://kskpd.pl/en/blog/weve-released-an-alubm/</loc>
+    <loc>http://kskpd.pl/en/blog/weve-released-an-album/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -54,7 +67,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://kskpd.pl/en/blog/weve-released-an-alubm/"
+                href="http://kskpd.pl/en/blog/weve-released-an-album/"
                 />
   </url><url>
     <loc>http://kskpd.pl/en/blog/unesco-anniversary-gala/</loc>

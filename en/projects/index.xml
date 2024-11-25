@@ -6,21 +6,28 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://kskpd.pl/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dataset</title>
+      <link>http://kskpd.pl/en/projects/dataset/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://kskpd.pl/en/projects/dataset/</guid>
+      <description>&lt;p&gt;Hey everyone! We’re excited to share the results of our latest research—the unified demoscene dataset. It contains fundamental information on over 600,000 demoscene productions gathered from major archives like &lt;a href=&#34;https://demozoo.org&#34;&gt;Demozoo&lt;/a&gt;, &lt;a href=&#34;http://pouet.net&#34;&gt;Pouët&lt;/a&gt;, &lt;a href=&#34;http://csdb.dk&#34;&gt;CSDb&lt;/a&gt;, &lt;a href=&#34;http://ada.untergrund.net&#34;&gt;ADA&lt;/a&gt;, &lt;a href=&#34;http://janeway.exotica.org.uk&#34;&gt;Kestra/BitWorld&lt;/a&gt;, &lt;a href=&#34;http://speccy.pl&#34;&gt;Speccy.pl&lt;/a&gt;, &lt;a href=&#34;http://atariki.krap.pl&#34;&gt;Atariki&lt;/a&gt;, and &lt;a href=&#34;http://zxart.ee&#34;&gt;ZXArt&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Intangible - Pass It On</title>
       <link>http://kskpd.pl/en/projects/demoscene-as-a-community-album/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://kskpd.pl/en/projects/demoscene-as-a-community-album/</guid>
-      <description>Thanks to the support of the National Heritage Institute under the &amp;ldquo;Intangible – Pass It On&amp;rdquo; program, and in cooperation with the distinguished sociologist Dr. Patryk Wasiak, we have released an album titled &amp;ldquo;Polish Demoscene as a Community. Informal Practices of Polish Demoscene Contacts&amp;rdquo;.&#xA;Our goal was to gather, preserve, and disseminate knowledge about the communication practices and the creation of their own identity by the Polish demoscene. The same demoscene that we managed to register on the National List of Intangible Cultural Heritage.</description>
+      <description>&lt;p&gt;Thanks to the support of the National Heritage Institute under the &amp;ldquo;Intangible – Pass It On&amp;rdquo; program, and in cooperation with the distinguished sociologist Dr. Patryk Wasiak, we have released an album titled &amp;ldquo;Polish Demoscene as a Community. Informal Practices of Polish Demoscene Contacts&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Polish Entry to UNESCO</title>
       <link>http://kskpd.pl/en/projects/polish-entry-to-unesco/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://kskpd.pl/en/projects/polish-entry-to-unesco/</guid>
-      <description>The demoscene is an international community creating digital audio-visual works. The artists&amp;rsquo; tools are electronic devices. Programs, music, and graphics are created on a variety of computer equipment, often pushing beyond its technical specifications — all in the name of art.&#xA;The Social Committee “Chronicle of the Polish Demoscene” closely cooperated with demoscene teams, cultural organizations, and individuals conducting research on digital culture and art.&#xA;It all began somewhere in 2019, from a tweet announcing the creation of the international initiative The Art of Coding, aimed at recognizing demoscene creativity as craftsmanship and art, whose development is part of the contemporary history of humanity.</description>
+      <description>&lt;p&gt;The demoscene is an international community creating digital audio-visual works. The artists&amp;rsquo; tools are electronic devices. Programs, music, and graphics are created on a variety of computer equipment, often pushing beyond its technical specifications — all in the name of art.&lt;/p&gt;&#xA;&lt;p&gt;The Social Committee “Chronicle of the Polish Demoscene” closely cooperated with demoscene teams, cultural organizations, and individuals conducting research on digital culture and art.&lt;/p&gt;&#xA;&lt;p&gt;It all began somewhere in 2019, from a tweet announcing the creation of the international initiative &lt;a href=&#34;https://demoscene-the-art-of-coding.net&#34;&gt;The Art of Coding&lt;/a&gt;, aimed at recognizing demoscene creativity as craftsmanship and art, whose development is part of the contemporary history of humanity.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
