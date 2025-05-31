@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kskpd.pl/en/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
@@ -16,7 +16,20 @@
                 />
   </url><url>
     <loc>http://kskpd.pl/en/projects/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://kskpd.pl/en/projects/museum/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/projekty/muzeum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/projects/museum/"
+                />
   </url><url>
     <loc>http://kskpd.pl/en/projects/dataset/</loc>
     <lastmod>2024-11-24T00:00:00+00:00</lastmod>
