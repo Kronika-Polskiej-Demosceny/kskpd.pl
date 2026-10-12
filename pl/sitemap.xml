@@ -151,13 +151,13 @@
     <loc>http://kskpd.pl/pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl-PL"
-                href="http://kskpd.pl/pl/categories/"
+                hreflang="en-US"
+                href="http://kskpd.pl/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="http://kskpd.pl/en/categories/"
+                hreflang="pl-PL"
+                href="http://kskpd.pl/pl/categories/"
                 />
   </url><url>
     <loc>http://kskpd.pl/pl/page/sztuka/</loc>
