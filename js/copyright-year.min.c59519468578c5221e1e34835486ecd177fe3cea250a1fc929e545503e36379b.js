@@ -1,0 +1,1 @@
+(function(){"use strict";function e(){for(var n=String((new Date).getFullYear()),t=document.querySelectorAll("[data-copyright-year]"),e=0;e<t.length;e+=1)t[e].textContent!==n&&(t[e].textContent=n)}e(),window.addEventListener("pageshow",e)})()

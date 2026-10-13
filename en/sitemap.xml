@@ -2,210 +2,210 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://kskpd.pl/en/</loc>
     <lastmod>2026-10-12T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="https://kskpd.pl/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/"
+                href="https://kskpd.pl/pl/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/</loc>
+    <loc>https://kskpd.pl/en/blog/</loc>
     <lastmod>2026-10-12T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/blog/"
+                href="https://kskpd.pl/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/blog/"
+                href="https://kskpd.pl/pl/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/we-were-at-the-grade-finale-in-warsaw/</loc>
+    <loc>https://kskpd.pl/en/blog/we-were-at-the-grade-finale-in-warsaw/</loc>
     <lastmod>2026-10-12T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/blog/byli%C5%9Bmy-na-finale-grade-w-warszawie/"
+                href="https://kskpd.pl/pl/blog/byli%C5%9Bmy-na-finale-grade-w-warszawie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/blog/we-were-at-the-grade-finale-in-warsaw/"
+                href="https://kskpd.pl/en/blog/we-were-at-the-grade-finale-in-warsaw/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/</loc>
+    <loc>https://kskpd.pl/en/projects/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/projects/museum/</loc>
+    <loc>https://kskpd.pl/en/projects/museum/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/projects/museum/"
+                href="https://kskpd.pl/en/projects/museum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/projekty/muzeum/"
+                href="https://kskpd.pl/pl/projekty/muzeum/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/dataset/</loc>
+    <loc>https://kskpd.pl/en/projects/dataset/</loc>
     <lastmod>2024-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/projects/dataset/"
+                href="https://kskpd.pl/en/projects/dataset/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/projekty/dataset/"
+                href="https://kskpd.pl/pl/projekty/dataset/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/demoscene-as-a-community-album/</loc>
+    <loc>https://kskpd.pl/en/projects/demoscene-as-a-community-album/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/projects/demoscene-as-a-community-album/"
+                href="https://kskpd.pl/en/projects/demoscene-as-a-community-album/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/projekty/album-demoscena-jako-wspolnota/"
+                href="https://kskpd.pl/pl/projekty/album-demoscena-jako-wspolnota/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/weve-released-an-album/</loc>
+    <loc>https://kskpd.pl/en/blog/weve-released-an-album/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/blog/weve-released-an-album/"
+                href="https://kskpd.pl/en/blog/weve-released-an-album/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/blog/wydali%C5%9Bmy-album/"
+                href="https://kskpd.pl/pl/blog/wydali%C5%9Bmy-album/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/unesco-anniversary-gala/</loc>
+    <loc>https://kskpd.pl/en/blog/unesco-anniversary-gala/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/blog/jubileuszowa-gala-unesco/"
+                href="https://kskpd.pl/pl/blog/jubileuszowa-gala-unesco/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/blog/unesco-anniversary-gala/"
+                href="https://kskpd.pl/en/blog/unesco-anniversary-gala/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/polish-entry-to-unesco/</loc>
+    <loc>https://kskpd.pl/en/projects/polish-entry-to-unesco/</loc>
     <lastmod>2021-12-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/projects/polish-entry-to-unesco/"
+                href="https://kskpd.pl/en/projects/polish-entry-to-unesco/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/projekty/polski-wpis-unesco/"
+                href="https://kskpd.pl/pl/projekty/polski-wpis-unesco/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/we-got-this/</loc>
+    <loc>https://kskpd.pl/en/blog/we-got-this/</loc>
     <lastmod>2021-12-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/blog/mamy-to/"
+                href="https://kskpd.pl/pl/blog/mamy-to/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/blog/we-got-this/"
+                href="https://kskpd.pl/en/blog/we-got-this/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/demoscena-x-unesco/</loc>
+    <loc>https://kskpd.pl/en/blog/demoscena-x-unesco/</loc>
     <lastmod>2021-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/blog/demoscena-x-unesco/"
+                href="https://kskpd.pl/en/blog/demoscena-x-unesco/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/blog/demoscena-x-unesco/"
+                href="https://kskpd.pl/pl/blog/demoscena-x-unesco/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://kskpd.pl/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
+                href="https://kskpd.pl/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/categories/"
+                href="https://kskpd.pl/pl/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://kskpd.pl/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="https://kskpd.pl/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/tags/"
+                href="https://kskpd.pl/pl/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/page/technika/</loc>
+    <loc>https://kskpd.pl/en/page/technika/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/page/technika/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/page/technika/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/page/sztuka/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/page/sztuka/"
+                href="https://kskpd.pl/pl/page/technika/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/page/sztuka/"
+                href="https://kskpd.pl/en/page/technika/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/page/about-us/</loc>
+    <loc>https://kskpd.pl/en/page/sztuka/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="https://kskpd.pl/pl/page/sztuka/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/page/about-us/"
+                href="https://kskpd.pl/en/page/sztuka/"
+                />
+  </url><url>
+    <loc>https://kskpd.pl/en/page/about-us/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://kskpd.pl/en/page/about-us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl-PL"
-                href="http://localhost:1313/pl/page/o-nas/"
+                href="https://kskpd.pl/pl/page/o-nas/"
                 />
   </url>
 </urlset>
